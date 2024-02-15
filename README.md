@@ -1,0 +1,1 @@
+go get github.com/Badikov/geocode-maps-yandex
